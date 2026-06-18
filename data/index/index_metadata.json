@@ -1,0 +1,9 @@
+{
+  "documents": 1,
+  "chunks": 3,
+  "faiss_built": true,
+  "embedding_provider": "hash-demo",
+  "embedding_model": "text-embedding-3-small",
+  "chunks_path": "/app/generated/4405041/my-custom-bot/data/index/chunks.jsonl",
+  "message": "FAISS 벡터 인덱스와 청크 JSONL을 생성했습니다."
+}
